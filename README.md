@@ -1,4 +1,4 @@
-# 💰 HisabKaro
+# HisabKaro
 
 ### Smart Personal Finance Management Platform
 
@@ -8,9 +8,9 @@ The application provides a modern dashboard experience with interactive charts, 
 
 ---
 
-# 🚀 Features
+# Features
 
-## 🔐 Authentication System
+## Authentication System
 
 * User registration and login
 * Secure password encryption
@@ -20,7 +20,7 @@ The application provides a modern dashboard experience with interactive charts, 
 
 ---
 
-## 💵 Income & Expense Management
+## Income & Expense Management
 
 * Add income records
 * Add expense records
@@ -31,7 +31,7 @@ The application provides a modern dashboard experience with interactive charts, 
 
 ---
 
-## 📊 Financial Dashboard
+## Financial Dashboard
 
 * Total balance overview
 * Income summary
@@ -42,7 +42,7 @@ The application provides a modern dashboard experience with interactive charts, 
 
 ---
 
-## 📅 Monthly Reports
+## Monthly Reports
 
 * Monthly income analysis
 * Monthly expense analysis
@@ -52,7 +52,7 @@ The application provides a modern dashboard experience with interactive charts, 
 
 ---
 
-## 🏷️ Category-Wise Spending Analysis
+## Category-Wise Spending Analysis
 
 Track expenses based on categories:
 
@@ -72,7 +72,7 @@ Provides insights into:
 
 ---
 
-## 📈 Interactive Charts & Visualization
+## Interactive Charts & Visualization
 
 Implemented using:
 
@@ -87,7 +87,7 @@ Includes:
 
 ---
 
-## 📄 Export Financial Reports
+## Export Financial Reports
 
 Users can export reports in:
 
@@ -112,7 +112,7 @@ Includes:
 
 ---
 
-# 🤖 Advanced Features
+# Advanced Features
 
 ## AI Spending Suggestions
 
@@ -127,7 +127,7 @@ Examples:
 
 ---
 
-## 🔔 Budget Alerts
+## Budget Alerts
 
 Users can create monthly budgets and monitor spending limits.
 
@@ -140,7 +140,7 @@ Features:
 
 ---
 
-# 🛠️ Technology Stack
+# Technology Stack
 
 ## Frontend
 
@@ -173,7 +173,7 @@ Features:
 
 ---
 
-# 🏗️ MERN Architecture Overview
+# MERN Architecture Overview
 
 HisabKaro follows a structured MERN architecture.
 
@@ -225,7 +225,7 @@ MongoDB stores:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 HisabKaro
@@ -258,7 +258,7 @@ HisabKaro
 
 ---
 
-# ⚙️ Installation & Setup
+# Installation & Setup
 
 ## 1. Clone Repository
 
@@ -348,7 +348,7 @@ http://localhost:5173
 
 ---
 
-# 🔑 Environment Variables
+# Environment Variables
 
 ## Backend (.env)
 
@@ -368,7 +368,7 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 
-# 🔌 API Overview
+# API Overview
 
 ## Authentication Routes
 
@@ -410,22 +410,22 @@ VITE_API_URL=http://localhost:5000/api
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Aniket Jha**
 
 GitHub:
-(Add your GitHub profile link)
+https://github.com/AniketJha2468
 
 LinkedIn:
-(Add your LinkedIn profile link)
+https://www.linkedin.com/in/aniketjha2468
 
 ---
 
-# ⭐ Support
+# Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
 ---
 
-## Built with ❤️ using the MERN Stack
+## Built with using the MERN Stack
