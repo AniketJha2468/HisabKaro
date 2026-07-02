@@ -168,7 +168,6 @@ Features:
 
 * Git
 * GitHub
-* Postman
 * VS Code
 
 ---
