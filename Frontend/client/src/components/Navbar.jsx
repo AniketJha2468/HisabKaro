@@ -48,11 +48,11 @@ const Navbar = () => {
         </div>
 
         <div className="flex items-center gap-3">
-          <span className="hidden text-sm text-slate-600 sm:block">{user?.name}</span>
+          <span className="hidden text-xl text-slate-500 sm:block">{user?.name}</span>
           <button
             type="button"
             onClick={handleLogout}
-            className="rounded-lg border border-slate-200 px-3 py-2 text-sm font-medium text-slate-700 transition hover:bg-slate-50"
+            className="rounded-lg border border-slate-200 px-3 py-2 text-sm text-white font-medium bg-red-500 transition hover:bg-red-600"
           >
             Logout
           </button>
